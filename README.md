@@ -43,7 +43,7 @@ Before you start working on the code:
 Find more about your challenge in the `challenge.ipynb` file. If Jupyter (IPython) notebooks are not familiar to you, read more at the [Jupyter Notebook docs](https://jupyter-notebook.readthedocs.io/en/stable/).
 
 ## Wrapping up.
-1. Be sure that the Jupyter (IPython) notebook and the Python module are finished.
+1. Be sure that your outputs (described in the last section of the `challenge.ipynb` file) are finished.
 2. Commit your changes. [How to commit](https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html)
 3. Don't forget to add your video file!
 4. Push your changes. [How to push](https://confluence.atlassian.com/get-started-with-bitbucket/push-code-to-bitbucket-861185309.html)
